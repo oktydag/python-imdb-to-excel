@@ -27,7 +27,7 @@ Create a virtualenv and activate it.
 <pre>$ source venv/bin/activate
 </pre>
 
-For Windows
+Activate venv for **Windows**
 <pre>$ cd venv
 </pre>
 
