@@ -18,10 +18,20 @@ git clone https://github.com/oktydag/python-imdb-to-excel.git
 
 Create a virtualenv and activate it.
 
+<pre>$ pip install virtualenv
+</pre>
+
 <pre>$ virtualenv venv
 </pre>
 
 <pre>$ source venv/bin/activate
+</pre>
+
+For Windows
+<pre>$ cd venv
+</pre>
+
+<pre>$ source Scripts/activate
 </pre>
 
 **virtualenv** is a tool to create isolated Python environments. virtualenv creates a folder which contains all the necessary executables to use the packages that a Python project would need.
