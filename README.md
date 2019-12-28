@@ -44,11 +44,6 @@ You can use this command to be able to install necessary modules for python. The
 </pre>
 
 
-**requests** allows you to send organic, grass-fed HTTP/1.1 requests, without the need for manual labor. 
-There is no need to manually add query strings to your URLs, or to form-encode your POST data.
-
-
-
 ## 3. Run the main.py in venv
 
 <pre>$ (venv) python main.py
